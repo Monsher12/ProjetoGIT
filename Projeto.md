@@ -19,7 +19,7 @@ Acessar [Link](https://docs.github.com/pt/get-started/writing-on-github/getting-
 
 ### Adicionando Imagens
 
-![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+![Isso é uma imagem](https://conexaopanvel.faccat.br/wp-content/uploads/2019/11/git-and-git-bash-800x450.png)
 
 
 
