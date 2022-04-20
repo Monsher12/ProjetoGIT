@@ -17,4 +17,9 @@ Formatação GIT
 Acessar [Link](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax/)
 
 
+### Adicionando Imagens
+
+![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 
